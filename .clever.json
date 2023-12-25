@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "app_id": "app_fc99682e-a4c2-46b5-bafe-6a0269ff1fa1",
+      "org_id": "user_aa36f4f5-f3fa-46c7-b1b9-728cae37ec52",
+      "deploy_url": "https://github.com/Muhammad-Awab/clevercloud.git",
+      "name": "clevercloud",
+      "alias": "clevercloud"
+    }
+  ]
+}
